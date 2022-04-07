@@ -1,2 +1,2 @@
 # stats-card
- responsive stat card
+ responsive stat card.
